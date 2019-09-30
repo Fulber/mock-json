@@ -22,27 +22,6 @@
         "state": 0
     },
     {
-        "name": "Hasselt",
-        "id": 8,
-        "idExt": "21",
-        "isGroup": false,
-        "state": 0
-    },
-    {
-        "name": "Wevelgem",
-        "id": 15,
-        "idExt": "22",
-        "isGroup": false,
-        "state": 0
-    },
-    {
-        "name": "Antwerpen",
-        "id": 17,
-        "idExt": "23",
-        "isGroup": false,
-        "state": 0
-    },
-    {
         "name": "Brussel",
         "id": 18,
         "idExt": "24",
@@ -64,44 +43,9 @@
         "state": 0
     },
     {
-        "name": "METRO SINT KATELIJNE WAVER",
-        "id": 35,
-        "idExt": "27",
-        "isGroup": false,
-        "state": 0
-    },
-    {
-        "name": "METRO VORST",
-        "id": 39,
-        "idExt": "28",
-        "isGroup": false,
-        "state": 0
-    },
-    {
-        "name": "METRO NAMEN",
-        "id": 38,
-        "idExt": "29",
-        "isGroup": false,
-        "state": 0
-    },
-    {
         "name": "Alleur",
         "id": 4,
         "idExt": "3",
-        "isGroup": false,
-        "state": 0
-    },
-    {
-        "name": "METRO ANTWERPEN NOORD",
-        "id": 42,
-        "idExt": "30",
-        "isGroup": false,
-        "state": 0
-    },
-    {
-        "name": "METRO MARCINELLE",
-        "id": 43,
-        "idExt": "31",
         "isGroup": false,
         "state": 0
     },
@@ -137,34 +81,6 @@
         "name": "VSS - DELIVERY",
         "id": 32,
         "idExt": "555",
-        "isGroup": false,
-        "state": 0
-    },
-    {
-        "name": "Lodelinsart",
-        "id": 7,
-        "idExt": "6",
-        "isGroup": false,
-        "state": 0
-    },
-    {
-        "name": "DELIVERY PLATFORM 1",
-        "id": 37,
-        "idExt": "61",
-        "isGroup": false,
-        "state": 0
-    },
-    {
-        "name": "HEADOFFICE (COCA EG.)",
-        "id": 31,
-        "idExt": "703",
-        "isGroup": false,
-        "state": 0
-    },
-    {
-        "name": "Coldstar",
-        "id": 24,
-        "idExt": "72",
         "isGroup": false,
         "state": 0
     },
