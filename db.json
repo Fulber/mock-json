@@ -169,55 +169,6 @@
         "state": 0
     },
     {
-        "name": "Ziegler",
-        "id": 25,
-        "idExt": "73",
-        "isGroup": false,
-        "state": 0
-    },
-    {
-        "name": "Fiege Central Stock",
-        "id": 23,
-        "idExt": "76",
-        "isGroup": false,
-        "state": 0
-    },
-    {
-        "name": "Fiege BBXD",
-        "id": 28,
-        "idExt": "77",
-        "isGroup": false,
-        "state": 0
-    },
-    {
-        "name": "Logistics Fresch BBXD",
-        "id": 27,
-        "idExt": "78",
-        "isGroup": false,
-        "state": 0
-    },
-    {
-        "name": "Hoofdkantoor Makro",
-        "id": 9,
-        "idExt": "90",
-        "isGroup": false,
-        "state": 0
-    },
-    {
-        "name": "Hoofdkantoor Metro",
-        "id": 30,
-        "idExt": "91",
-        "isGroup": false,
-        "state": 0
-    },
-    {
-        "name": "Logistics",
-        "id": 14,
-        "idExt": "95",
-        "isGroup": false,
-        "state": 0
-    },
-    {
         "name": "VIRTUAL STORE",
         "id": 1,
         "idExt": "990",
